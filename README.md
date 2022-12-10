@@ -47,5 +47,5 @@ Os teste implementados verificam a funciolidade das dois métodos, de cadastro (
 
 Implementações:
 
-No futuro gostaria de implementar os métodos de cadastro de usuário, o de envio de e-mails automáticos para todos os usuários (aquele que autorizarem o recebimento) com as informações de cada pet novo cadastrado para ajudar na busca e para os usuários que buscam os seus pets, e-mails com informações de pets que foram cadastrados recentementes e que tem as mesmas características do seu pet.
+No futuro gostaria de implementar os métodos de cadastro de usuário, o de envio de e-mails automáticos para todos os usuários (aquele que autorizarem o recebimento) com as informações de cada pet novo cadastrado para ajudar na busca e para os usuários que buscam os seus pets, e-mails com informações de pets que foram cadastrados recentemente e que tem as mesmas características do seu pet.
 
