@@ -2,7 +2,7 @@ WikiPet 🐾🔍- Projeto final Imersão Javascript | 2022 | Geisiane de Oliveir
 
 Regras de negócio:
 
-O WikiPet é um site coloborativo para cadastro de animais perdidos. Se o seu pet (ou o pet de alguma amigo ou parente) fugiu, você pode cadastrá-lo no WikiPet para que ele fique disponível na nossa galeria de Pets desaparecidos e ser consultado por nossos usuários que vão te ajudar na busca ou se você encontrou um animal desacompanhado que aparenta estar desaparecido, você também pode cadastrá-lo no Wikipet e informar que o pet está acompanhado por você (amigo ou parente) ou o último lugar e horário em que você o viu pela ultima vez.
+O WikiPet é um site colaborativo para cadastro de animais perdidos. Se o seu pet (ou o pet de alguma amigo ou parente) fugiu, você pode cadastrá-lo no WikiPet para que ele fique disponível na nossa galeria de Pets desaparecidos e possa ser consultado pelos nossos usuários que vão te ajudar na busca ou se você encontrou um animal desacompanhado que aparenta estar desaparecido, você também pode cadastrá-lo no Wikipet e informar que o pet está acompanhado por você (amigo ou parente) ou o último lugar e horário em que você o viu pela ultima vez.
 
 
 Classe:
