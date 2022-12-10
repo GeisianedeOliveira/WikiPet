@@ -1,4 +1,4 @@
-WikiPet 🐾🔍- Projeto final Imersão Javascript | 2022 | Geisiane de Oliveira
+WikiPet 🐾🔍- Projeto final Imersão Javascript {Reprograma} | 2022 | Geisiane de Oliveira
 
 Regras de negócio:
 
