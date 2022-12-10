@@ -35,9 +35,8 @@ O código possui dois métodos principais, o de cadastrado de Pet e o de busca d
 - Busca:<br>
     O métodos de busca (foundAnimal) possui os atributos:<br>
     Tipo = type,<br>
-    Cor = color,<br>
+    Cor = color e <br>
     Cor das manchas = stainColors e<br>
-    Cor dos olhos = eyeColor<br>
 
 *A busca vai retornar "true" se a busca atender todos os requisitos.
 
